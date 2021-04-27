@@ -7,7 +7,7 @@ int main()
     double f;
     f=c*9;
     f=f/5+32;
-    printf("Äá¤ó%d«× = ",c);
-    printf("µØ¤ó%f«×",f);
+    printf("æ”æ°%dåº¦ = ",c);
+    printf("è¯æ°%fåº¦",f);
     return 0;
 }
